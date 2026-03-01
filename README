@@ -1,1 +1,5 @@
 This is a simple snake game made in C as part of my journey to better understand the C language.
+
+W,A,S,D are the movement keys.
+
+Press X to end the game.
